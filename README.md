@@ -1,2 +1,8 @@
 # Linear-Regression-I
-Assignments for the day: Visualize the boston dataset and try to come up with meaningful insights. find out which features are not significant(backed by appropriate reason) and then create a new model by dropping out that features and compare your results. 
+
+**Challenge**
+
+Predict the "tip" a waiter recieves using the variables in the dataset. Be sure to conduct data exploration - you have a good idea of which variables are relevant BEFORE you apply the model. 
+
+You should have a few models: your base model (with all variables) and others with intelligent choices of variables.  (backed by data exploration or hypothesis testing). Your final model should be the one which had the smallest difference between train and test dataset. 
+
